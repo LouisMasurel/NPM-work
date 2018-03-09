@@ -1,3 +1,3 @@
 # NPM-work
 
-I came. I saw. I learnd
+I came. I saw. I learnd.
